@@ -73,7 +73,7 @@ export default function App() {
           style={styles.modalContent}
         >
           <View style={styles.modalTitleContainer}>
-            <Text style={styles.modalTitle}>Detalle del item</Text>
+            <Text style={styles.modalTitle}>Detalle del artículo</Text>
           </View>
           <Text style={styles.modalMessage}>{itemSelected.value}</Text>
           <View style={styles.modalButtonContainer}>
